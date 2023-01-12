@@ -1,1 +1,1 @@
-# konstruct-template.github.io
+# KonstructTemplate.github.io
